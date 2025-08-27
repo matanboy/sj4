@@ -1,0 +1,17 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "...",
+    "imageUrl": "...",
+    "answerOptions": [
+      {
+        "text": "...",
+        "rationale": "...",
+        "isCorrect": false
+      },
+      ...
+    ],
+    "hint": "..."
+  },
+  ...
+]
